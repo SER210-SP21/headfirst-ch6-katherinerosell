@@ -1,4 +1,4 @@
-package edu.quinnipiac.demo6;
+package edu.quinnipiac.myconstraintlayout;
 
 import androidx.appcompat.app.AppCompatActivity;
 

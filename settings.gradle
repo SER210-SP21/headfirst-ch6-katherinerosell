@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='Demo6'
+rootProject.name='MyConstraintLayout'

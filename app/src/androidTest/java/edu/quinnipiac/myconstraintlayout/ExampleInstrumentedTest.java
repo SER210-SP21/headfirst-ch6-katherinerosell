@@ -1,4 +1,4 @@
-package edu.quinnipiac.demo6;
+package edu.quinnipiac.myconstraintlayout;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("edu.quinnipiac.demo6", appContext.getPackageName());
+        assertEquals("edu.quinnipiac.myconstraintlayout", appContext.getPackageName());
     }
 }
